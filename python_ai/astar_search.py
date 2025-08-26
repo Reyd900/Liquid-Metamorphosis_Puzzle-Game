@@ -1,4 +1,3 @@
-# astar_search.py
 import heapq
 
 class Node:
