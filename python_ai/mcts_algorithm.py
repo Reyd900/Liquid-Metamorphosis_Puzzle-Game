@@ -1,4 +1,3 @@
-# mcts_algorithm.py
 import math
 import random
 
